@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1714190136 source:c:\users\vaibhav\onedrive\desktop\sdf project\morsetranslator\main.cpp
+	<iostream>
+	<map>
+	<stdexcept>
+	<cctype>
+	<string>
+	<vector>
+	<algorithm>
+
